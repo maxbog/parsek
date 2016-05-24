@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/parsek.iml" filepath="$PROJECT_DIR$/.idea/modules/parsek.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/parsek_main.iml" filepath="$PROJECT_DIR$/.idea/modules/parsek_main.iml" group="parsek" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/parsek_test.iml" filepath="$PROJECT_DIR$/.idea/modules/parsek_test.iml" group="parsek" />
+    </modules>
+  </component>
+</project>
